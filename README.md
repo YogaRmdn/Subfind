@@ -1,7 +1,7 @@
 # Subfind
-Tools python yang berfungsi untuk mencari semua subfinder website dengan teknik crawler
+Python tool that functions to search all website subfinders using crawler techniques
 
-## Cara penggunaan Tools
+## How to use tools 
 ```
 git clone https://github.com/YogaRmdn/Subfind.git
 cd Subfind
